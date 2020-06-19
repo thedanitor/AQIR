@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS aqir_db;
+CREATE DATABASE aqir_db;
