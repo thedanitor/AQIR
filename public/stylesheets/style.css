@@ -27,6 +27,7 @@ body {
 }
 .logo {
   font-family: "PhosphateInline";
+  /* font-family: 'Bungee Inline'; */
   font-size: 49px;
   margin-bottom: -0.6em;
   color: white;
